@@ -58,16 +58,6 @@
         padding-bottom: 10px;
     }
 
-    .foote_bottom_ul_amrc {
-        list-style-type: none;
-        padding: 0px;
-        display: table;
-        margin-top: 10px;
-        margin-right: auto;
-        margin-bottom: 10px;
-        margin-left: auto;
-    }
-
     .foote_bottom_ul_amrc li {
         display: inline;
     }

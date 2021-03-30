@@ -1,9 +1,16 @@
 <template>
+    <div>
 
-    <div class="logo">
+        <div class="logo">
 
-        <img alt="logo" src="../assets/logo.jpg"/>
+            <img alt="logo" src="../assets/logo.jpg"/>
+        </div>
+
+        <div>
+            知味頭條 Dumpling Village
+        </div>
     </div>
+
 
 </template>
 
