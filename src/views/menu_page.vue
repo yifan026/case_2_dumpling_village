@@ -49,7 +49,7 @@
                     <md-list-item>
                         <md-card>
                             <md-card-media>
-                                <img src="../assets/pork and scallions steamed buns.jpeg" alt="Xiaolong bao">
+                                <img src="../assets/buns-1.jpeg" alt="Xiaolong bao">
                             </md-card-media>
 
                             <md-card-header>
@@ -77,7 +77,7 @@
                     <md-list-item>
                         <md-card>
                             <md-card-media>
-                                <img src="../assets/pork and scallions steamed buns.jpeg" alt="Xiaolong bao">
+                                <img src="../assets/buns-1.jpeg" alt="Xiaolong bao">
                             </md-card-media>
 
                             <md-card-header>
@@ -103,7 +103,7 @@
                         <md-card>
                             <md-card-media>
 
-                                <img src="../assets/pork and scallions steamed buns.jpeg" alt="Xiaolong bao">
+                                <img src="../assets/buns-1.jpeg" alt="Xiaolong bao">
 
                             </md-card-media>
 
@@ -130,7 +130,7 @@
                         <md-card>
                             <md-card-media>
 
-                                <img src="../assets/pork and scallions steamed buns.jpeg" alt="Xiaolong bao">
+                                <img src="../assets/buns-1.jpeg" alt="Xiaolong bao">
 
                             </md-card-media>
 
